@@ -1,0 +1,73 @@
+body {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.5)), url(https://a-static.besthdwallpaper.com/billions-stars-in-the-night-sky-wallpaper-1440x1080-3464_22.jpg);
+    background-size: cover;
+}
+
+p {
+    font-family: "Courier New", Monaco, Monospace;
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    letter-spacing: 1px;
+}
+
+h1 {
+    font-family: "Courier New", Monaco, Monospace;
+    color: white;
+    font-size: 100px;
+}
+
+h2 {
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    font-size: 80;
+    text-align: center;
+}
+
+ul {
+    font-family: "Courier New", Monaco, Monospace;
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    letter-spacing: 1px;
+}
+
+.button {
+    background-color: #33006d;
+    border: 2px solid #33006d;
+    border-radius: 8px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color:#26006d
+}
+
+table {
+    width: 60%;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table, th, td {
+    border: 1px solid;
+}
+
+label {
+    font-family: "Courier New", Monaco, Monospace;
+    color: white;
+    font-size: 25px;
+}
