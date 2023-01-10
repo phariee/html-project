@@ -34,6 +34,7 @@ ul {
     font-family: "Courier New", Monaco, Monospace;
     color: white;
     font-size: 30px;
+    list-style-position:inside;
     text-align: center;
     letter-spacing: 1px;
 }
